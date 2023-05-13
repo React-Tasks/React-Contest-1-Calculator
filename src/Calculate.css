@@ -1,0 +1,52 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.div{
+    margin-top: 2%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  button{
+    width: 55px;
+    height: 55px;
+    font-size: 18px;
+  }
+  .btns{
+    display: flex;
+    gap: 1.5rem;
+  }
+  input{
+    padding: 12px;
+    width: 290px;
+    background-color: black;
+    border: 1px solid white;
+    font-size: 18px;
+    color: white;
+  }
+
+  #emptyNum1{
+    display: none;
+    color: red;
+  }
+  #emptyNum2{
+    display: none;
+    color: red;
+  }
+
+  #success{
+    display: none;
+    color : green;
+    margin-top: 10px;
+  }
+  #res{
+    display: none;
+  }
+  p{
+    font-size: 18px;
+  }
