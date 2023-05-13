@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Contest-1-Calculator/static/css/main.e8ca4d55.css",
+    "main.js": "/React-Contest-1-Calculator/static/js/main.35e67dbe.js",
+    "index.html": "/React-Contest-1-Calculator/index.html",
+    "main.e8ca4d55.css.map": "/React-Contest-1-Calculator/static/css/main.e8ca4d55.css.map",
+    "main.35e67dbe.js.map": "/React-Contest-1-Calculator/static/js/main.35e67dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ca4d55.css",
+    "static/js/main.35e67dbe.js"
+  ]
+}
